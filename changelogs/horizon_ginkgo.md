@@ -1,5 +1,10 @@
 # Changelogs for HorizonDroid
 
+### Aquila (v5.1 | 06-04-2025)
+- Checkout GPS config from MIUI R
+- Fix default governor
+- Switch to Ryzen Kernel
+
 ### Nebula (v5.0 | 12-03-2025)
 - Initial Horizodroid A15 Release
 - Enable elf check & migrate Vendor to Blueprint
